@@ -1,0 +1,1539 @@
+@prefix rdfs: <http:/www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http:/www.w3.org/2004/02/skos/core#> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Aforyzmy> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85005966>,
+        <http:/www.wikidata.org/entity/Q109174024>,
+        <https:/finto.fi/yso/en/page/15630> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Aforyzmy"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Akrostych> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q173287>,
+        <https:/finto.fi/yso/en/page/27873> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Akrostych"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Anegdoty> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Anegdoty"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Apoftegmaty> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Apoftegmaty"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Apologia> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q1416320> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Apologia"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Ars_moriendi> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/n84006960>,
+        <http:/www.wikidata.org/entity/Q174268> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Ars moriendi"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Autobiografia> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85010049>,
+        <http:/www.wikidata.org/entity/Q4184> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Autobiografia"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Autofikcja> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Autofikcja"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Bajki_i_basnie> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Bajki i baśnie"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Ballada-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Ballada (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Bestiariusz> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85013443>,
+        <http:/www.wikidata.org/entity/Q830560> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Bestiariusz"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Blason> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q99662268> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Blason"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Bylina-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Bylina (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Centon> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q568286> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Centon"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Cyzjojan> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q639935> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Cyzjojan"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dialog> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85037531>,
+        <http:/www.wikidata.org/entity/Q3025978>,
+        <https:/finto.fi/yso/en/page/14560> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Dialog"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dramat-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Dramat (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dramat-rodzaj> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Dramat (rodzaj)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dumy_i_dumki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Dumy i dumki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dzienniki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q25415538> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Dzienniki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dzienniki_i_pamietniki_duchowe> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Dzienniki i pamiętniki duchowe"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Elegia> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q174864>,
+        <https:/finto.fi/yso/en/page/10201> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Elegia"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Emaus-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q9253380> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Emaus (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Emblematy-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Emblematy (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epicedia> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q14833350> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Epicedia"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epigramy> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Epigramy"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epika> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh2008103110>,
+        <http:/www.wikidata.org/entity/Q1097273>,
+        <https:/finto.fi/yso/en/page/2128> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Epika"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epinikia> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Epinikia"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epitafia-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Epitafia (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epitalamium> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85044463>,
+        <http:/www.wikidata.org/entity/Q686027> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Epitalamium"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epos> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85044306>,
+        <http:/www.wikidata.org/entity/Q28125626>,
+        <https:/finto.fi/yso/en/page/17090> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Epos"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epyllion> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q446523> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Epyllion"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Erotyki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q50395316> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Erotyki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Esej> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85044914>,
+        <http:/www.wikidata.org/entity/Q24265643>,
+        <https:/finto.fi/yso/en/page/19188> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Esej"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Exemplum> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85046320>,
+        <http:/www.wikidata.org/entity/Q1993117> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Exemplum"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Fabliaux> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q905171> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Fabliaux"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Fanfikcja-fan_fiction> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Fanfikcja (fan fiction)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Fantastyka> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh2010015283>,
+        <http:/www.wikidata.org/entity/Q9326077>,
+        <https:/finto.fi/yso/en/page/27925> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Fantastyka"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Felieton> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85047988>,
+        <http:/www.wikidata.org/entity/Q193195> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Felieton"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Figliki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q19138412> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Figliki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Fraszki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q50395513> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Fraszki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Gaweda> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q64781442> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Gawęda"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Gaweda_szlachecka> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q9266288> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Gawęda szlachecka"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Gazele-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Gazele (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Genetliakon> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Genetliakon"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Georgika> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Georgika"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Haibun> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Haibun"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Haiku> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85058289>,
+        <http:/www.wikidata.org/entity/Q37707>,
+        <https:/finto.fi/yso/en/page/17578> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Haiku"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Horror> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85062084>,
+        <http:/www.wikidata.org/entity/Q16575965>,
+        <https:/finto.fi/yso/en/page/7966> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Horror"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Humoreska-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Humoreska (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Jamb-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Jamb (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Jeremiada> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Jeremiada"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Kasydy> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Kasydy"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Komedia_elegijna> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Komedia elegijna"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Komiks> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh99001401>,
+        <http:/www.wikidata.org/entity/Q109316118>,
+        <https:/finto.fi/yso/en/page/1148> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Komiks"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Komiksy_i_ksiazki_obrazkowe> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Komiksy i książki obrazkowe"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Krakowiak-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Krakowiak (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Kronika> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q108982460>,
+        <https:/finto.fi/yso/en/page/11598> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Kronika"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Kryminal> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q15637305> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Kryminał"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Lament-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Lament (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Latopis> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q2624969> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Latopis"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Legendy_i_podania> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Legendy i podania"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Limeryki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Limeryki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Liryka> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85103704>,
+        <http:/www.wikidata.org/entity/Q482>,
+        <https:/finto.fi/yso/en/page/1365> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Liryka"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Listy> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q109013838> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Listy"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Listy_poetyckie> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Listy poetyckie"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Literatura> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85092725>,
+        <http:/www.wikidata.org/entity/Q565823>,
+        <https:/finto.fi/yso/en/page/11180> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Literatura"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Literatura_elektroniczna> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Literatura elektroniczna"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Literatura_faktu,_eseje,_publicystyka> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Literatura faktu, eseje, publicystyka"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Literatura_grozy> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh2008105769>,
+        <http:/www.wikidata.org/entity/Q193606>,
+        <https:/finto.fi/yso/en/page/15087> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Literatura grozy"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Literatura_pastoralna> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Literatura pastoralna"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Literatura_sowizdrzalska> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q11761910> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Literatura sowizdrzalska"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Madrygal-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Madrygał (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Makama> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85080878>,
+        <http:/www.wikidata.org/entity/Q919947> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Makama"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Mangale> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Mangale"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Mare> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Märe"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Mezostych> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Mezostych"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Miniatura_literacka> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Miniatura literacka"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Motet-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Motet (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Mowy> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q109269276> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Mowy"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Nokturn-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Nokturn (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Obrazek> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q50395012> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Obrazek"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Oda> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85094075>,
+        <http:/www.wikidata.org/entity/Q178985>,
+        <https:/finto.fi/yso/en/page/2142> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Oda"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Opowiadania_i_nowele> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Opowiadania i nowele"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Pamflet> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85097292>,
+        <http:/www.wikidata.org/entity/Q18536349>,
+        <https:/finto.fi/yso/en/page/8210> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Pamflet"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Pamietniki_i_wspomnienia> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Pamiętniki i wspomnienia"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Panegiryk> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85075030>,
+        <http:/www.wikidata.org/entity/Q591055> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Panegiryk"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Parodia> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85098254>,
+        <http:/www.wikidata.org/entity/Q170539>,
+        <https:/finto.fi/yso/en/page/9240> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Parodia"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Pastisz> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q11813405>,
+        <https:/finto.fi/yso/en/page/8980> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Pastisz"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Piesn-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Pieśń (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Poemat> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85089846>,
+        <http:/www.wikidata.org/entity/Q11714462> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Poemat"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Poezja> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85103704>,
+        <http:/www.wikidata.org/entity/Q102147879> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Poezja"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Political_fiction> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85104355>,
+        <http:/www.wikidata.org/entity/Q2254211> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Political fiction"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Portret_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q368359> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Portret literacki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Powiastka_filozoficzna> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q2016518> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Powiastka filozoficzna"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Powiesc> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/no2015015062>,
+        <http:/www.wikidata.org/entity/Q121913644>,
+        <https:/finto.fi/yso/en/page/1896> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Powieść"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Powiesc_graficzna> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh94008233>,
+        <http:/www.wikidata.org/entity/Q725377>,
+        <https:/finto.fi/yso/en/page/26599> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Powieść graficzna"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Powiesc_poetycka> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh2002009675>,
+        <http:/www.wikidata.org/entity/Q948970>,
+        <https:/finto.fi/yso/en/page/35397> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Powieść poetycka"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Prosimetrum> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Prosimetrum"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Protreptyk> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q2113832> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Protreptyk"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Proza> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh2008110107>,
+        <http:/www.wikidata.org/entity/Q109120462> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Proza"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Proza_poetycka> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q15890340> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Proza poetycka"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Przypowiesc> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh00006882>,
+        <http:/www.wikidata.org/entity/Q208555>,
+        <https:/finto.fi/yso/en/page/5556> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Przypowieść"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Przyslowia> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85107840>,
+        <http:/www.wikidata.org/entity/Q35102> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Przysłowia"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Psalmy-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Psalmy (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Purany> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/n79139448>,
+        <http:/www.wikidata.org/entity/Q188602> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Purany"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Pure_nonsense> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q11831848> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Pure nonsense"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Pytania_i_odpowiedzi> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q618527> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Pytania i odpowiedzi"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Reportaz> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q124922> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Reportaż"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Romans> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85078595>,
+        <http:/www.wikidata.org/entity/Q858330>,
+        <https:/finto.fi/yso/en/page/19812> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Romans"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Rondo-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Rondo (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Rubajjat> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q250090> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Rubajjat"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Rymowanki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Rymowanki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sagi> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q37555151> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Sagi"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Satyra> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85117645>,
+        <http:/www.wikidata.org/entity/Q128758>,
+        <https:/finto.fi/yso/en/page/9241> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Satyra"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Scenariusz> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85088064>,
+        <http:/www.wikidata.org/entity/Q103076>,
+        <https:/finto.fi/yso/en/page/24212> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Scenariusz"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sekwencja-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Sekwencja (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sensacja-rodzaj/gatunek> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Sensacja (rodzaj/gatunek)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Serranilla> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Serranilla"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Shijo-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Shijo (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sielanka> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q390001> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Sielanka"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sirat> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q9337245> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Sirat"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Slowa> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q25414866> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Słowa"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sluchowisko_radiowe> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q11835101> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Słuchowisko radiowe"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sonety> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85125233>,
+        <http:/www.wikidata.org/entity/Q80056>,
+        <https:/finto.fi/yso/en/page/1663> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Sonety"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Szkic_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Szkic literacki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Szmonces> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q3509705> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Szmonces"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Tautogramy> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Tautogramy"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Thriller> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q933116> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Thriller"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Treny> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q109269011> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Treny"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Turcyki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q25415129> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Turcyki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Vilanella-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Vilanella (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Waka-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Waka (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Western> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/id.loc.gov/authorities/subjects/sh85146254>,
+        <http:/www.wikidata.org/entity/Q172980>,
+        <https:/finto.fi/yso/en/page/18443> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Western"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Wiersze> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q25415660> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Wiersze"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Wiersze_okolicznosciowe> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Wiersze okolicznościowe"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Zagadki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:closeMatch <http:/www.wikidata.org/entity/Q108972082> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Zagadki"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Zwierciadlo-gatunek_literacki> a skos:Concept ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Literaturoznawstwo> ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Zwierciadło (gatunek literacki)"@pl .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Aforyzmy> skos:altLabel "Aphorismus"@de,
+        "aphorism"@en,
+        "aphorisme"@fr,
+        "Sentencje"@pl,
+        "Złote myśli"@pl,
+        "афоризм"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Akrostych> skos:altLabel "Akrostichon"@de,
+        "acrostic"@en,
+        "acrostiche"@fr,
+        "Acrostics"@pl,
+        "Poezja akrostyczna"@pl,
+        "Wiersz akrostyczny"@pl,
+        "акровірш"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Anegdoty> skos:altLabel "Dowcipy"@pl,
+        "Facecje"@pl,
+        "Facetiae"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Apoftegmaty> skos:altLabel "Apóphthegma"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Apologia> skos:altLabel "Verteidigungsschrift"@de,
+        "apologia"@en,
+        "apologie"@fr,
+        "Apologie"@pl,
+        "Apology"@pl,
+        "Obrona (gatunek literacki)"@pl,
+        "Апологія"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Ars_moriendi> skos:altLabel "Ars moriendi"@de,
+        "Ars moriendi"@en,
+        "Ars moriendi"@fr,
+        "Ars bene moriendi"@pl,
+        "Sztuka umierania"@pl,
+        "Ars Moriendi"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Autobiografia> skos:altLabel "Autobiografie"@de,
+        "autobiography"@en,
+        "autobiographie"@fr,
+        "автобіографія"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Autofikcja> skos:altLabel "Autofiction"@pl,
+        "Fabularyzowana autobiografia"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Bajki_i_basnie> skos:altLabel "Baśń"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Ballada-gatunek_literacki> skos:altLabel "Ballada"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Bestiariusz> skos:altLabel "Bestiarium"@de,
+        "bestiary"@en,
+        "bestiaire"@fr,
+        "Fizjologus"@pl,
+        "Бестіарій"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Blason> skos:altLabel "Blason"@de,
+        "Blason"@en,
+        "Blason"@fr ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Bylina-gatunek_literacki> skos:altLabel "Byliny (literatura)"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Centon> skos:altLabel "Cento"@de,
+        "cento"@en,
+        "centon"@fr,
+        "Bigos literacki"@pl,
+        "Центон"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Cyzjojan> skos:altLabel "Cisiojanus"@de,
+        "cisiojanus"@en,
+        "Cisiojanus"@pl,
+        "Cisjojanus"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dialog> skos:altLabel "Dialog"@de,
+        "dialogue"@en,
+        "dialogue"@fr,
+        "діалог"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dramat-gatunek_literacki> skos:altLabel "Dramat"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dumy_i_dumki> skos:altLabel "Dumki"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dzienniki> skos:altLabel "Dzienniki"@de,
+        "Dzienniki"@en,
+        "Dzienniki"@fr,
+        "Dziennik"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Dzienniki_i_pamietniki_duchowe> skos:altLabel "Dzienniczek duchowy"@pl,
+        "Dziennik duchowy"@pl,
+        "Dzienniki duchowe"@pl,
+        "Pamiętnik duchowy"@pl,
+        "Pamiętniki duchowe"@pl,
+        "Pamiętniki i dzienniki duchowe"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Elegia> skos:altLabel "Elegie"@de,
+        "elegy"@en,
+        "élégie"@fr,
+        "Elegiac poetry"@pl,
+        "Elegy"@pl,
+        "Élégie"@pl,
+        "елегія"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epicedia> skos:altLabel "Epicedia"@de,
+        "Epicedia"@en,
+        "Epicedia"@fr,
+        "Epicedia"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epigramy> skos:altLabel "Epigramaty"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epika> skos:altLabel "Epik"@de,
+        "epic literature"@en,
+        "littérature épique"@fr,
+        "епос"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epinikia> skos:altLabel "Epinicia"@pl,
+        "Epinicium"@pl,
+        "Epinikion"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epitafia-gatunek_literacki> skos:altLabel "Epitafium (gatunek literacki)"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epitalamium> skos:altLabel "Epithalamium"@de,
+        "epithalamium"@en,
+        "épithalame"@fr,
+        "Pieśń weselna"@pl,
+        "епіталама"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epos> skos:altLabel "Aigimios"@de,
+        "Il mondo nuovo"@en,
+        "Il mondo nuovo"@fr,
+        "Epopeja"@pl,
+        "Poemat heroiczny"@pl,
+        "епопея"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Epyllion> skos:altLabel "Epyllion"@de,
+        "epyllion"@en,
+        "epyllion"@fr,
+        "Епіліон"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Erotyki> skos:altLabel "Erotic poetry"@pl,
+        "Erotyk"@pl,
+        "Poezja erotyczna"@pl,
+        "Wiersz erotyczny"@pl,
+        "Wiersze erotyczne"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Esej> skos:altLabel "Essay"@de,
+        "essay"@en,
+        "essai"@fr,
+        "Eseje"@pl,
+        "Essai"@pl,
+        "Essay"@pl,
+        "есей"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Exemplum> skos:altLabel "Exemplum"@de,
+        "exemplum"@en,
+        "exemplum"@fr,
+        "Exempla"@pl,
+        "Екземплум"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Fabliaux> skos:altLabel "Fabliau"@de,
+        "fabliau"@en,
+        "fabliau"@fr,
+        "Fabliau"@pl,
+        "Фабліо"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Fanfikcja-fan_fiction> skos:altLabel "Fan fiction"@pl,
+        "Fan-fikcja"@pl,
+        "Fanfik"@pl,
+        "Fanfikcja"@pl,
+        "Fik"@pl,
+        "Fikcja fanowska"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Fantastyka> skos:altLabel "Phantastik"@de,
+        "speculative/fantastic fiction"@en,
+        "fiction spéculative"@fr,
+        "фантастика"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Felieton> skos:altLabel "Feuilleton"@de,
+        "feuilleton"@en,
+        "feuilleton"@fr,
+        "фейлетон"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Fraszki> skos:altLabel "Fraszki"@en,
+        "Fraszki"@fr ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Gaweda> skos:altLabel "Gawęda"@de,
+        "Gawęda"@en,
+        "Gawęda"@fr,
+        "Gawęda ludowa"@pl,
+        "Ґавенда"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Gaweda_szlachecka> skos:altLabel "Шляхетська ґавенда"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Gazele-gatunek_literacki> skos:altLabel "Gazela (gatunek literacki)"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Genetliakon> skos:altLabel "Genethliaca"@pl,
+        "Genethliakon"@pl,
+        "Genetliakony"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Georgika> skos:altLabel "Georgiki"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Haiku> skos:altLabel "Haiku"@de,
+        "haiku"@en,
+        "haïku"@fr,
+        "хайку"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Horror> skos:altLabel "Horror"@de,
+        "horror fiction"@en,
+        "horreur"@fr,
+        "фантастика жахів"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Humoreska-gatunek_literacki> skos:altLabel "Humoreski (gatunek literacki)"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Jamb-gatunek_literacki> skos:altLabel "Epoda"@pl,
+        "Epode"@pl,
+        "Epody"@pl,
+        "Iamb"@pl,
+        "Iambi"@pl,
+        "Iambic poetry"@pl,
+        "Iambus"@pl,
+        "Jamby"@pl,
+        "Poezja jambiczna"@pl,
+        "Épōdós"@pl,
+        "Íambos"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Kasydy> skos:altLabel "Kasyda"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Komiks> skos:altLabel "Assimilation²"@de,
+        "Raffington Event"@en,
+        "Raffington Event"@fr,
+        "Bande dessinée"@pl,
+        "Comics"@pl,
+        "Седрік"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Krakowiak-gatunek_literacki> skos:altLabel "Cracovienne"@pl,
+        "Krakowiak literacki"@pl,
+        "Краковяк"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Kronika> skos:altLabel "Chronik der frühen Könige"@de,
+        "kronika"@en,
+        "chronique"@fr,
+        "Kroniki"@pl,
+        "хроніка"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Kryminal> skos:altLabel "Mystery-Manga und -Anime"@de,
+        "mystery anime and manga"@en,
+        "anime et manga à mystère"@fr,
+        "Film kryminalny"@pl,
+        "Literatura detektywistyczna"@pl,
+        "Literatura policyjna"@pl,
+        "аніме та манґа в жанрі містика"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Lament-gatunek_literacki> skos:altLabel "Lamentacja (gatunek literacki)"@pl,
+        "Lamentacje (gatunek literacki)"@pl,
+        "Lamentation poetry"@pl,
+        "Planctus"@pl,
+        "Plankt"@pl,
+        "Żale (gatunek literacki)"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Latopis> skos:altLabel "Galizisch-Wolhynische Chronik"@de,
+        "letopis"@en,
+        "chronique slave"@fr,
+        "Latopisy"@pl,
+        "Летапіс"@pl,
+        "Летописание"@pl,
+        "Летописец"@pl,
+        "Летопись"@pl,
+        "Літопис"@pl,
+        "літопис"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Legendy_i_podania> skos:altLabel "Podania (literatura)"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Liryka> skos:altLabel "Dichtkunst"@de,
+        "poetry"@en,
+        "poésie"@fr,
+        "поезія"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Listy> skos:altLabel "Listy"@de,
+        "Listy"@en,
+        "Listy"@fr,
+        "Epistolografia (zbiory listów)"@pl,
+        "Листи Дж. Р. Р. Толкіна"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Listy_poetyckie> skos:altLabel "Briefgedicht"@pl,
+        "List poetycki"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Literatura> skos:altLabel "Norwegische Literatur"@de,
+        "Norwegian literature"@en,
+        "littérature norvégienne"@fr,
+        "норвезька література"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Literatura_elektroniczna> skos:altLabel "E-literatura"@pl,
+        "Electronic literature"@pl,
+        "Hypertext literature"@pl,
+        "Literatura HTML"@pl,
+        "Literatura cyfrowa"@pl,
+        "Literatura hipertekstowa"@pl,
+        "Literatura internetowa"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Literatura_faktu,_eseje,_publicystyka> skos:altLabel "Literatura faktu, eseje i publicystyka"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Literatura_grozy> skos:altLabel "Horrorliteratur"@de,
+        "horror literature"@en,
+        "littérature d'horreur"@fr,
+        "література жахів"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Madrygal-gatunek_literacki> skos:altLabel "Madrigal"@pl,
+        "Madrigale"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Makama> skos:altLabel "Makame"@de,
+        "maqāma"@en,
+        "maqâma"@fr,
+        "Makamy"@pl,
+        "Maqama"@pl,
+        "Maqamat"@pl,
+        "макама"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Mare> skos:altLabel "Märendichtung"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Mowy> skos:altLabel "Przemówienia"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Nokturn-gatunek_literacki> skos:altLabel "Noc w literaturze"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Oda> skos:altLabel "Ode"@de,
+        "ode"@en,
+        "ode"@fr,
+        "ода"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Opowiadania_i_nowele> skos:altLabel "Nowela"@pl,
+        "Nowele i opowiadania"@pl,
+        "Opowiadanie"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Pamflet> skos:altLabel "Pamphlet"@de,
+        "polemical lampoon"@en,
+        "pamphlet"@fr,
+        "Paszkwil"@pl,
+        "Памфлет"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Pamietniki_i_wspomnienia> skos:altLabel "Pamiętniki"@pl,
+        "Wspomnienia"@pl,
+        "Wspomnienia i pamiętniki"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Panegiryk> skos:altLabel "Panegyrikus"@de,
+        "panegyric"@en,
+        "panégyrique"@fr,
+        "панегірик"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Parodia> skos:altLabel "Parodie"@de,
+        "parody"@en,
+        "parodie"@fr,
+        "Parodie"@pl,
+        "пародія"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Pastisz> skos:altLabel "Pastisz"@de,
+        "Pastisz"@en,
+        "Pastisz"@fr,
+        "Pastiche"@pl,
+        "пастиш"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Poemat> skos:altLabel "Narrative Poesie"@de,
+        "Ivan Pidkova"@en,
+        "poésie narrative"@fr,
+        "Іван Підкова"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Poezja> skos:altLabel "Dichtkunst"@de,
+        "poetry"@en,
+        "poésie"@fr,
+        "поезія"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Political_fiction> skos:altLabel "political fiction"@en,
+        "fiction politique"@fr,
+        "Fikcja polityczna"@pl,
+        "Політична фантастика"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Portret_literacki> skos:altLabel "Porträt"@de,
+        "portrait"@en,
+        "portrait littéraire"@fr ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Powiastka_filozoficzna> skos:altLabel "philosophischer Roman"@de,
+        "philosophical novel"@en,
+        "roman philosophique"@fr,
+        "Conte philosophique"@pl,
+        "Philosophical tale"@pl,
+        "філософський роман"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Powiesc> skos:altLabel "Wie Ton in des Töpfers Hand"@de,
+        "Like clay in the potter's hand"@en,
+        "Les Rois en exil"@fr,
+        "Mikropowieść"@pl,
+        "Novel"@pl,
+        "Сталевий пацюк"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Powiesc_graficzna> skos:altLabel "Graphic Novel"@de,
+        "graphic novel"@en,
+        "roman graphique"@fr,
+        "Graphic novel"@pl,
+        "Graphic novels"@pl,
+        "графічний роман"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Powiesc_poetycka> skos:altLabel "Versroman"@de,
+        "verse novel"@en,
+        "roman en vers"@fr,
+        "Roman w stihah"@pl,
+        "Verse novel"@pl,
+        "роман у віршах"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Protreptyk> skos:altLabel "Protreptikos"@de,
+        "protrepticus"@en,
+        "protreptique"@fr,
+        "Ekshortacja"@pl,
+        "Exhortatio"@pl,
+        "Napomnienie (gatunek literacki)"@pl,
+        "Zachęta (gatunek)"@pl,
+        "Προτρεπτικός"@pl,
+        "Протрептик"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Proza> skos:altLabel "Prosa"@de,
+        "proza"@en,
+        "prose"@fr,
+        "проза"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Proza_poetycka> skos:altLabel "poetische Prosa"@de,
+        "poetic prose"@en,
+        "prose poétique"@fr,
+        "Prose poetry"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Przypowiesc> skos:altLabel "Parabel"@de,
+        "parable"@en,
+        "parabole"@fr,
+        "притча"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Przyslowia> skos:altLabel "Sprichwort"@de,
+        "proverb"@en,
+        "proverbe"@fr,
+        "Paremia"@pl,
+        "Paremie"@pl,
+        "Paremiologia"@pl,
+        "прислів'я"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Psalmy-gatunek_literacki> skos:altLabel "Psalm (gatunek literacki)"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Purany> skos:altLabel "Puranas"@de,
+        "Purana"@en,
+        "Purana"@fr,
+        "Пурани"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Pure_nonsense> skos:altLabel "Literatura nonsensowna"@pl,
+        "Literatura nonsensu"@pl,
+        "Literatura pure nonsenowna"@pl,
+        "Literatura purenonsensowna"@pl,
+        "Nonsens (gatunek literacki)"@pl,
+        "Pure nonsense (literatura)"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Pytania_i_odpowiedzi> skos:altLabel "Tödliche Fragen"@de,
+        "Q & A"@en,
+        "Contre-enquête"@fr,
+        "Odpowiedzi i pytania"@pl,
+        "Запитання та відповіді"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Reportaz> skos:altLabel "Reportage"@de,
+        "reportage"@en,
+        "reportage"@fr,
+        "репортаж"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Romans> skos:altLabel "Liebesroman"@de,
+        "romance novel"@en,
+        "roman d'amour"@fr,
+        "романтичний роман"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Rondo-gatunek_literacki> skos:altLabel "Rondeau (gatunek literacki)"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Rubajjat> skos:altLabel "Rubāʿī"@de,
+        "Ruba'i"@en,
+        "Rubaï"@fr,
+        "Rubai"@pl,
+        "Rubajaty"@pl,
+        "Рубаї"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sagi> skos:altLabel "Sagi"@de,
+        "Sagi"@en,
+        "Sagi"@fr ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Satyra> skos:altLabel "Satire"@de,
+        "satire"@en,
+        "satire"@fr,
+        "сатира"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Scenariusz> skos:altLabel "Drehbuch"@de,
+        "screenplay"@en,
+        "scénario"@fr,
+        "сценарій"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sekwencja-gatunek_literacki> skos:altLabel "Sekwencja (liturgia)"@pl,
+        "Sekwencje (gatunek literacki)"@pl,
+        "Sequentia"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sensacja-rodzaj/gatunek> skos:altLabel "Sensacja"@pl,
+        "Sensationalism"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sielanka> skos:altLabel "Pastoral"@de,
+        "pastoral"@en,
+        "pastorale"@fr,
+        "Bukolika"@pl,
+        "Idylla (lit.)"@pl,
+        "Пастораль"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sirat> skos:altLabel "Sirat"@de,
+        "sirat"@en,
+        "sirat"@fr ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Slowa> skos:altLabel "Słowa"@de,
+        "Słowa"@en,
+        "Słowa"@fr,
+        "Słowa (literatura staroruska)"@pl,
+        "Słowa (utwory)"@pl,
+        "Слова (роман)"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sluchowisko_radiowe> skos:altLabel "Rodzina Poszepszyńskich"@en,
+        "Teatr radiowy"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Sonety> skos:altLabel "Sonett"@de,
+        "sonnet"@en,
+        "sonnet"@fr,
+        "Sonet"@pl,
+        "Sonetto"@pl,
+        "Sonnet"@pl,
+        "сонет"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Szmonces> skos:altLabel "Szmonces"@fr,
+        "Język szmoncesowy"@pl,
+        "Shmontses"@pl,
+        "Shmontzes"@pl,
+        "Shmonzes"@pl,
+        "Szmoncesy"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Tautogramy> skos:altLabel "Tauto gramma"@pl,
+        "Tautograms"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Thriller> skos:altLabel "The Roommate"@de,
+        "The Roommate"@en,
+        "The Roommate"@fr,
+        "трилер"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Treny> skos:altLabel "Laments"@en,
+        "Thrènes"@fr,
+        "Трени"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Turcyki> skos:altLabel "Literatura antyturecka"@pl,
+        "Turkiany"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Vilanella-gatunek_literacki> skos:altLabel "Villanelle"@pl,
+        "Villanesque"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Western> skos:altLabel "Western"@de,
+        "Western film"@en,
+        "western"@fr,
+        "Film kowbojski"@pl,
+        "Western (film)"@pl,
+        "Western (książka)"@pl,
+        "вестерн"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Wiersze> skos:altLabel "Wiersze"@de,
+        "Wiersze"@en,
+        "Wiersze"@fr,
+        "Верше"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Wiersze_okolicznosciowe> skos:altLabel "Poezja okolicznościowa"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Zagadki> skos:altLabel "Zagadki"@de,
+        "Zagadki"@en,
+        "Zagadki"@fr,
+        "Заґадкі"@uk ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Zwierciadlo-gatunek_literacki> skos:altLabel "Speculum (gatunek literacki)"@pl ;
+    skos:broader <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> a skos:Concept ;
+    rdfs:label "Deskryptory literackie BN w SKOS"@pl ;
+    skos:altLabel "BN_LIT_SKOS"@en ;
+    skos:inScheme <https:/bn-lit-skos.lab.dariah.pl/scheme/> ;
+    skos:prefLabel "Deskryptory literackie BN w SKOS"@pl ;
+    skos:topConceptOf <https:/bn-lit-skos.lab.dariah.pl/scheme/> .
+
+<https:/bn-lit-skos.lab.dariah.pl/scheme/> a skos:ConceptScheme ;
+    rdfs:label "Deskryptory literackie BN w SKOS",
+        "Deskryptory literackie BN w SKOS"@en ;
+    skos:topConceptOf <https:/bn-lit-skos.lab.dariah.pl/scheme/Deskryptory_literackie_BN_w_SKOS> .
+
